@@ -347,6 +347,10 @@ i{
       width: 97%;
    }
 
+   .home-right{
+      text-align: center;
+   }
+
    h1{
       font-size: clamp(2rem,4vw,3rem);
       color: var(--white-color);
