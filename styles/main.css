@@ -213,7 +213,7 @@ i{
    width: 100%;
    align-items: center;
    justify-content: center;
-   gap: 10px;
+   gap: 20px;
    flex-wrap: wrap;
    margin-top: 20px;
 }
